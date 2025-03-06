@@ -1,0 +1,8 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_alice3d_LEFT
+    def_bool $(shields_list_contains,alice3d_left)
+
+config SHIELD_alice3d_RIGHT
+    def_bool $(shields_list_contains,alice3d_right)

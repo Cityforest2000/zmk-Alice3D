@@ -1,0 +1,11 @@
+file_format: "1"
+id: alice3d
+name: BFO-9000
+type: shield
+url: https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - alice3d_left
+  - alice3d_right
