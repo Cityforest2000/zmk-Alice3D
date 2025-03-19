@@ -16,9 +16,6 @@
 #define ADJUST  2
 
 / {
-    &led_strip {
-        chain-length = <41>;
-    };
     keymap {
         compatible = "zmk,keymap";
 
