@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: alice3d_left
+    shield: atreus3d_left
   - board: nice_nano_v2
-    shield: alice3d_right
+    shield: atreus3d_right
